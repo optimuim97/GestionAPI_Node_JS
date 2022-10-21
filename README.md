@@ -1,1 +1,3 @@
-# GestionAPI_Node_JS
+# GestionAPI
+Node_JS ( Auth JWT, CRUD)
+React JS (Client)
